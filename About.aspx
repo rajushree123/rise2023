@@ -16,6 +16,7 @@
             </div>
         </div>
     </div>
+
     <section class="speakers section">
         <div class="container">
             <div class="row">

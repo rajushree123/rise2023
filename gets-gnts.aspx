@@ -32,7 +32,7 @@
                 <div class="col-md-12 col-lg-6 order-2">
                     <div class="venu-content">
 
-                        <p class="font-weight-normal fs-6 text-justify">
+                      <%--  <p class="font-weight-normal fs-6 text-justify">
                             Experience the Rotary International culture and friendship along with 
                                         Rotarians from 22 countries (Bangladesh, Bhutan, Brunei, Cambodia, China- Guangdong Province, Hong Kong, India,
        Indonesia, Laos, Macao, Malaysia, Maldives, Mongolia, Myanmar, Nepal, Pakistan, Philippines, Singapore, Srilanka, Taiwan, Thailand, Vietnam).
@@ -40,7 +40,7 @@
                   <br />
 
                             Experience the world’s best Formula Race track. Let’s wear the shoes and open the Champaign here.<br />
-                        </p>
+                        </p>--%>
 
                         <div class="row">
 

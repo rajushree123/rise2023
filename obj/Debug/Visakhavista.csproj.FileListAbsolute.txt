@@ -387,3 +387,8 @@ C:\Kalpesh\Rise - Copy\obj\Debug\Visakhavista.GeneratedMSBuildEditorConfig.edito
 C:\Kalpesh\Rise - Copy\obj\Debug\Visakhavista.csproj.CoreCompileInputs.cache
 C:\Kalpesh\Rise - Copy\obj\Debug\Visakhavista.dll
 C:\Kalpesh\Rise - Copy\obj\Debug\Visakhavista.pdb
+C:\Kalpesh\rise2023\obj\Debug\Visakhavista.csproj.AssemblyReference.cache
+C:\Kalpesh\rise2023\obj\Debug\Visakhavista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kalpesh\rise2023\obj\Debug\Visakhavista.csproj.CoreCompileInputs.cache
+C:\Kalpesh\rise2023\obj\Debug\Visakhavista.dll
+C:\Kalpesh\rise2023\obj\Debug\Visakhavista.pdb
