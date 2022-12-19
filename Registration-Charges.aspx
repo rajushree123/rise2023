@@ -31,7 +31,7 @@
           
 </section>
 
-    <section>
+  <%--  <section>
 
        <div class="container">
           
@@ -83,7 +83,7 @@
          
            </div>
           
-   </section>
+   </section>--%>
 
     <section>
 

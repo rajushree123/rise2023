@@ -1944,7 +1944,25 @@
                     </div>
                     <!--end--speaker-->
 
+                     <!--speaker-->
+                    <div class="col-lg-3 col-md-4 col-12 wow fadeInUp" data-wow-delay=".8s">
 
+                        <div class="single-speaker">
+                            <div class="top-content">
+                                <div class="image">
+                                    <img src="images/speakers/madhu-prasad.jpg" alt="#">
+                                </div>
+
+                            </div>
+                            <div class="name">
+                                <h3><a>Madhu Prasad K</a></h3>
+                                <h6 class="size-head"> 3160</h6>
+                                <span>Chair</span>
+                            </div>
+                        </div>
+
+                    </div>
+                    <!--end--speaker-->
 
                 </div>
             </div>
